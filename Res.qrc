@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Bishop_1_082.gif</file>
+        <file>Bishop_1_083.gif</file>
+        <file>Bishop_1_084.gif</file>
+        <file>King_1_082.gif</file>
+        <file>King_1_083.gif</file>
+        <file>King_1_084.gif</file>
+        <file>Knight_1_082.gif</file>
+        <file>Knight_1_083.gif</file>
+        <file>Knight_1_084.gif</file>
+        <file>Pawn_1_082.gif</file>
+        <file>Pawn_1_083.gif</file>
+        <file>Pawn_1_084.gif</file>
+        <file>Queen_1_082.gif</file>
+        <file>Queen_1_083.gif</file>
+        <file>Queen_1_084.gif</file>
+        <file>Rook_1_082.gif</file>
+        <file>Rook_1_083.gif</file>
+        <file>Rook_1_084.gif</file>
+    </qresource>
+</RCC>
